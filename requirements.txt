@@ -1,0 +1,3 @@
+httpx==0.24.1
+rich==13.3.5
+selectolax==0.3.13
